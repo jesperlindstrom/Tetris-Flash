@@ -1,0 +1,1 @@
+﻿package Tetris{	import flash.display.MovieClip;	public class Main extends MovieClip	{		public function Main()		{			// http://www.actionscript.org/resources/articles/636/4/Getting-Started-With-AS3-and-Flash-CS3/Page4.html			trace("Hello world");		}	}}
