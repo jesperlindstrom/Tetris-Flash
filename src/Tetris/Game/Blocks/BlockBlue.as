@@ -1,0 +1,1 @@
+﻿package Tetris.Game.Blocks {	public class BlockBlue extends Block {		public function BlockBlue() { }	}}

@@ -1,1 +1,0 @@
-﻿package Tetris.Blocks{		import Tetris.Block;	public class BlockYellow extends Block	{		public function BlockYellow()		{			trace("Hello");		}	}}
